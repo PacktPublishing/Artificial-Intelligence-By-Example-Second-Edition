@@ -1,9 +1,9 @@
 # Artificial Intelligence By Example - Second Edition
 This is the code repository for Artificial Intelligence By Example, Second Edition, published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 
-[<img src="./.other/cover_1.jpg" width="248">](https://www.amazon.com/Artificial-Intelligence-Example-advanced-learning-ebook/dp/B084ZNNBNN/)
+[<img src="./.other/cover.png" width="248">](https://www.amazon.com/Artificial-Intelligence-Example-advanced-learning-ebook/dp/B084ZNNBNN/)
 
-##Links
+## Links
 
 * [Amazon](https://www.amazon.com/Artificial-Intelligence-Example-advanced-learning-ebook/dp/B084ZNNBNN/)
 
