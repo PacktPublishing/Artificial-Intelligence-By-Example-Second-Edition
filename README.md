@@ -2,9 +2,7 @@
 This is the code repository for Artificial Intelligence By Example, Second Edition, published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 
 * **Paperback**: 578 pages
-
 * **ISBN-13**: 9781839211539
-
 * **Date Of Publication**: 28 Feb 2020
 
 [<img src="./.other/cover.png" width="248">](https://www.amazon.com/Artificial-Intelligence-Example-advanced-learning-ebook/dp/B084ZNNBNN/)
@@ -12,7 +10,6 @@ This is the code repository for Artificial Intelligence By Example, Second Editi
 ## Links
 
 * [Amazon](https://www.amazon.com/Artificial-Intelligence-Example-advanced-learning-ebook/dp/B084ZNNBNN/)
-
 * [Packt Publishing](https://www.packtpub.com/programming/artificial-intelligence-by-example-second-edition)
 
 ## About the Book
@@ -40,5 +37,4 @@ Check this file for the chapter-wise requirements: [Technical Requirements.csv](
 ## Related Products
 
 * [AI Crash Course](https://www.packtpub.com/data/ai-crash-course)
-
 * [Artificial Intelligence with Python - Second Edition](https://www.packtpub.com/data/artificial-intelligence-with-python-second-edition)
